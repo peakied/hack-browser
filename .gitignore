@@ -1,0 +1,8 @@
+build
+dist
+Login Data
+server.py
+sqldiff.exe
+sqlite3_analyzer.exe
+sqlite3.exe
+sqlite3_rsync.exe
